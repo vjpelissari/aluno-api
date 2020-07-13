@@ -13,25 +13,25 @@ com as seguintes funcionalidades desenvolvidas:
 
 # Tecnologias e frameworks utilizados
 
-- Sprint Boot (STS)
+- Sprint Boot (STS):
   Desenvolvimento da Aplicação
 
-- Maven
+- Maven:
   Gerenciador de Pacotes
 
-- H2 
+- H2:
   Banco de dados em memória
 
-- JPA 
+- JPA:
   Para a camada de persistencia
 
-- Swagger  
+- Swagger:
   Para documentar a API
 
-- Postman
+- Postman:
   Para testes na API
  
-- GIT
+- GIT:
   Para controle de versão.
 
 # Acesso ao Swagger
