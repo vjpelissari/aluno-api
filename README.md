@@ -2,7 +2,7 @@
 Api desenvolvida para Apresentação de um Teste.
 
 # Resumo e Status 
-A aplicação consiste em fazer uma API para fazer um cadastro de Alunos,
+A aplicação consiste em uma API para fazer um cadastro de Alunos,
 com as seguintes funcionalidades desenvolvidas:
 
 - Buscar todos os alunos - OK
