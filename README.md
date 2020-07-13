@@ -1,5 +1,5 @@
 # aluno-api 
-Api desenvolvida para Apresentação de um Teste.
+Api desenvolvida para apresentação de um teste.
 
 # Resumo e Status 
 A aplicação consiste em uma API para fazer um cadastro de Alunos,
