@@ -24,9 +24,8 @@ public class Aluno {
 	private String nome;
 	
 	@JsonInclude(Include.NON_NULL)
-	@Min(value = 1, message = "Idade deve ser maior que 0.")
-	@NotEmpty (message = "Idade do aluno não pode ser vazio")
-	private int idade;
+	@NotEmpty (message = "Email do aluno não pode ser vazio")
+	private String email;
 
 	public Long getId() {
 		return id;
@@ -44,11 +43,11 @@ public class Aluno {
 		this.nome = nome;
 	}
 
-	public int getIdade() {
-		return idade;
+	public String getEmail() {
+		return email;
 	}
 
-	public void setIdade(int idade) {
-		this.idade = idade;
+	public void setEmail(String email) {
+		this.email = email;
 	}
 }
